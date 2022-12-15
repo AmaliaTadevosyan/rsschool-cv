@@ -4,13 +4,13 @@
 ##### Junior Software Engineer
 
 ---
-#####Contact Information
+##### Contact Information
 
 * **Phone**: +37433743444
 * **Email**: amalia_tadevosyan@yahoo.com
 
 ---
-#####Briefly About Myself
+##### Briefly About Myself
 
 
 
@@ -31,3 +31,4 @@
 * Russian - Intermediate
 * Dutch - Intermediate
 * Armenian - Native
+
