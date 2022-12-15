@@ -1,18 +1,33 @@
-RSSCHOOL-CV
-Amalya Tadevosyan
-Junior Software Engineer
+# rsschool-cv
+## Amalya Tadevosyan
+
+##### Junior Software Engineer
+
+---
+#####Contact Information
+
+* **Phone**: +37433743444
+* **Email**: amalia_tadevosyan@yahoo.com
+
+---
+#####Briefly About Myself
 
 
-Contact Information
 
-Phone +37433743444 Email amalia_tadevosyan@yahoo.com
+---
 
-Briefly about myself
+##### Skills and Proficiency
 
-Skills and profiency *HTML5, CSS3 *JavaScript *C *Git, GitHub
+* HTML5, CSS3
+* JavaScript
+* C/C++
+* Git/GitHub
+* VS Code
 
+---
 
-Languagies *English - Intermadiate/Upper Intermediate (according to the online test www.efset.org)
-Russian Intermediate
-Dutch Intermedaite
-Armenian Native
+##### Languagies
+* English - Intermediate/Upper intermediate (according to the online test www.efset.org)
+* Russian - Intermediate
+* Dutch - Intermediate
+* Armenian - Native
